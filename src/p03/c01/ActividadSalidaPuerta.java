@@ -1,6 +1,6 @@
 package src.p03.c01;
 
-public class ActividadSalidaPuerta{
+public class ActividadSalidaPuerta {
 
 	//
 	// TODO
