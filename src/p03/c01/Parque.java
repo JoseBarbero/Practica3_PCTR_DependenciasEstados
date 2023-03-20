@@ -33,7 +33,7 @@ public class Parque implements IParque {
 
 		// TODO
 
-		// TODOasdfasdfasdf
+		// TODO
 
 	}
 
